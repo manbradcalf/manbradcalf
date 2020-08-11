@@ -4,9 +4,10 @@
 
 My name IRL name is Ben Medcalf. I'm a self-taught engineer who loves making life easier via code.
 
-I spend my days building CI/CD pipelines and end to end tests for mobile apps📱 at CarMax 🚘
+I spend my days building CI/CD pipelines and end to end tests for mobile apps at CarMax in beautiful Richmond, Virginia.
+When I'm not doing that, I'm always building _something_ to make life a little easier. 
 
-When I'm not doing that, I'm always building _something_ to make life a little easier, such as...
+Here are some examples of things I've been working on lately
 
 #### 📲 In the [store](https://play.google.com/store/apps/details?id=com.bookyrself.bookyrself&hl=en_US)
 - 🎸[Native Android application for DIY artists](https://github.com/manbradcalf/Artie-Android) to simplify the painful process of booking events. Named after [Artie Fufkin, Polymer Records ](https://www.youtube.com/watch?v=I0s2Tk-cbig)
@@ -17,9 +18,7 @@ When I'm not doing that, I'm always building _something_ to make life a little e
 - 🎸[API for the Artie app](https://github.com/manbradcalf/Artie-Express)
 - 🧙‍♂️ A Flask webapp that acts as a ["Mood Board" for the DnD campaign I DM for](https://github.com/manbradcalf/DND-Mood-Board) 
 
-I'm always down to collaborate on stuff that piques my interest so please reach out!
-
-#### Real life stuff I'm always thinking about
+I'm always eager to collaborate on stuff that piques my interest so please reach out! If you think about any of this stuff all the time like I do, we'll be fast friends.
 - Dungeons and Dragons
 - Magic The Gathering
 - NFL
@@ -31,17 +30,3 @@ I'm always down to collaborate on stuff that piques my interest so please reach 
 - Changing attitudes towards Mental Health
 - Native American History
 - Bourbon
-
-
-#### Computer things I'm learnin' about
-- Node.js
-- Vim
-- Javascript and Typescript
-- Graph databases
-- Web Design
-- [How to tweet good](https://twitter.com/bmedcalf_online)
-
-#### What I'm already good at
-- Native Android Development
-- Automated testing
-- Building CI/CD pipelines
