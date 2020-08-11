@@ -2,7 +2,7 @@
 
 ![profilepic](https://avatars1.githubusercontent.com/u/11594171?s=460&u=2181d48efbc911f51fdb641d047e87973cf6888e&v=4)
 
-My name IRL name is Ben Medcalf. I'm a self-taught engineer who loves making life easier via code.
+I'm Ben Medcalf, a self-taught engineer who loves making life easier via code.
 
 I spend my days building CI/CD pipelines and end to end tests for mobile apps at CarMax in beautiful Richmond, Virginia.
 When I'm not doing that, I'm always building _something_ to make life a little easier. 
