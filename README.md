@@ -15,7 +15,7 @@ When I'm not doing that, I'm always building _something_ to make life a little e
 
 Want to collab on something? If you think about any of this stuff all the time like I do, we'll be fast friends.
 - DIY music, art and communities
-- Dungeons and Dragons
+- Dungeons & Dragons
 - Magic The Gathering
 - NFL
 - Fantasy Football
