@@ -1,4 +1,4 @@
-### I'm Ben Medcalf, a self-taught engineer who loves making life easier via code.
+### Hello! My name is Ben Medcalf. I love to make life easier via code.
 
 I spend my days building CI/CD pipelines and end to end tests for mobile apps at CarMax in beautiful Richmond, Virginia.
 When I'm not doing that, I'm always building _something_ to make life a little easier, for example. 
@@ -24,3 +24,4 @@ Want to collab on something? If you think about any of this stuff all the time l
 - The Shenandoah Valley
 - Native American History
 - Bourbon
+- Vim / neovim
