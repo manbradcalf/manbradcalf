@@ -192,13 +192,16 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lYWV6Mn_xeqbXDkd3jMC-237" value="{ Question }" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="350" y="500" as="geometry">
+        <mxCell id="lYWV6Mn_xeqbXDkd3jMC-237" value="{ Question + Hardcoded Schema }" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="380" y="500" as="geometry">
             <mxPoint x="-36" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lYWV6Mn_xeqbXDkd3jMC-245" value="Neo4j Gateway" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#8C4FFF;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.gateway;" vertex="1" parent="1">
           <mxGeometry x="172" y="535.5" width="67.23" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="lYWV6Mn_xeqbXDkd3jMC-250" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;" vertex="1" parent="1">
+          <mxGeometry x="290" y="580" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
