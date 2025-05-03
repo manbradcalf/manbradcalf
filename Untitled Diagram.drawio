@@ -1,9 +1,12 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="24.7.7">
   <diagram name="Page-1" id="0RhbtU0nEBAmv8wr0rxq">
-    <mxGraphModel dx="2493" dy="985" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2310" dy="876" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="lYWV6Mn_xeqbXDkd3jMC-252" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diagGrid;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;" vertex="1" parent="1">
+          <mxGeometry x="290" y="320" width="480" height="170" as="geometry" />
+        </mxCell>
         <mxCell id="lYWV6Mn_xeqbXDkd3jMC-102" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-170" y="690" width="960" height="220" as="geometry" />
         </mxCell>
@@ -200,8 +203,11 @@
         <mxCell id="lYWV6Mn_xeqbXDkd3jMC-245" value="Neo4j Gateway" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#8C4FFF;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.gateway;" vertex="1" parent="1">
           <mxGeometry x="172" y="535.5" width="67.23" height="69" as="geometry" />
         </mxCell>
-        <mxCell id="lYWV6Mn_xeqbXDkd3jMC-250" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;" vertex="1" parent="1">
-          <mxGeometry x="290" y="580" width="120" height="60" as="geometry" />
+        <mxCell id="lYWV6Mn_xeqbXDkd3jMC-254" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;" vertex="1" parent="1">
+          <mxGeometry x="-545" y="291.25" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lYWV6Mn_xeqbXDkd3jMC-259" value="V2?&lt;div&gt;Whole schema is fine for MVP methinks?&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.loud_callout" vertex="1" parent="1">
+          <mxGeometry x="740" y="251.25" width="290" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
